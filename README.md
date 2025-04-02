@@ -30,6 +30,9 @@ Este repositório contém três jogos criados utilizando **Processing.org**:
 3. Abra o arquivo **.pde** de cada jogo no Processing.
 4. Clique no botão **Run** para iniciar o jogo.
 
+## 📷 Prints
+As capturas de tela se encontram dentro das pastas dos respectivos jogos junto com seus códigos-fonte.
+
 ## 👨‍💻 Integrantes da Equipe "2LM"
 - **Diego Henrique Rodrigues** - 01650828
 - **Lucas Oliveira Carneiro** - 01636600

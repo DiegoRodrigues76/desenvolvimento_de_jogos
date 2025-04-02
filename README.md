@@ -31,10 +31,10 @@ Este repositório contém três jogos criados utilizando **Processing.org**:
 4. Clique no botão **Run** para iniciar o jogo.
 
 ## 👨‍💻 Integrantes da Equipe "2LM"
-- **Lucas Vinicius França Aires** - 01627405
-- **Lucas Oliveira Carneiro** - 01636600
-- **Monique Rafaela Carvalho Lopes** - 01633424
 - **Diego Henrique Rodrigues** - 01650828
+- **Lucas Oliveira Carneiro** - 01636600
+- **Lucas Vinicius França Aires** - 01627405
+- **Monique Rafaela Carvalho Lopes** - 01633424
 
 ## 📜 Licença
 Este projeto foi desenvolvido exclusivamente para fins acadêmicos. Sinta-se livre para explorar e aprender com o código!
